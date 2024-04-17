@@ -29,3 +29,15 @@
      <audio src="tests_vf_vs_signal/audio_without_noise/testing_audio0_rozdiel_vyh_nevyh_div2.wav" controls preload style="width: 200px;"></audio>
    </div>
 </div>
+
+<div class="container">
+   <div class="column-1">
+     <h6>Audio with noise full</h6>
+     <audio src="tests_vf_vs_signal/audio_without_noise/testing_audio0_rozdiel_vyh_nevyh.wav" controls preload style="width: 190px;"></audio>
+      
+   </div>
+   <div class="column-2">
+     <h6>Audio with noise </h6>
+     <audio src="tests_vf_vs_signal/audio_without_noise/testing_audio0_rozdiel_vyh_nevyh_div2.wav" controls preload style="width: 200px;"></audio>
+   </div>
+</div>
