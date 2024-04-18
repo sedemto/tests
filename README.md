@@ -66,6 +66,7 @@
             <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel12_full.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
+            <th>Difference/2</th>
             <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_vyhodna_full.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_nevyhodna_full.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel_full.wav" controls preload style="width: 200px;"></audio></td>
