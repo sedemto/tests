@@ -37,7 +37,7 @@
     <thead>
         <tr>
             <th></th>
-            <th>Audio with noise full/th>
+            <th>Audio with noise full</th>
             <th>Audio with noise half</th>
             <th>Audio with /20 noise</th>
             <th>Audio with /50 noise</th>
