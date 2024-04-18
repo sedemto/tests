@@ -39,38 +39,38 @@
             <th></th>
             <th>Audio with noise full</th>
             <th>Audio with noise half</th>
+            <th>Audio with /10 noise</th>
             <th>Audio with /20 noise</th>
-            <th>Audio with /50 noise</th>
         </tr>
     </thead>
     <tbody>
         <tr>
             <th>Vyhodna</th>
             <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_vyhodna_full.wav" controls preload style="width: 200px;"></audio></td>
-            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_vyhodna_full.wav" controls preload style="width: 200px;"></audio></td>
-            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_vyhodna_full.wav" controls preload style="width: 200px;"></audio></td>
-            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_vyhodna_full.wav" controls preload style="width: 200px;"></audio></td>
+            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_vyhodna_half.wav" controls preload style="width: 200px;"></audio></td>
+            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_vyhodna_10.wav" controls preload style="width: 200px;"></audio></td>
+            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_vyhodna_20.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>Nevyhodna</th>
             <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_nevyhodna_full.wav" controls preload style="width: 200px;"></audio></td>
-            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_nevyhodna_full.wav" controls preload style="width: 200px;"></audio></td>
-            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_nevyhodna_full.wav" controls preload style="width: 200px;"></audio></td>
-            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_nevyhodna_full.wav" controls preload style="width: 200px;"></audio></td>
+            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_nevyhodna_half.wav" controls preload style="width: 200px;"></audio></td>
+            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_nevyhodna_10.wav" controls preload style="width: 200px;"></audio></td>
+            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_nevyhodna_20.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>Difference</th>
             <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel_full.wav" controls preload style="width: 200px;"></audio></td>
-            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel_full.wav" controls preload style="width: 200px;"></audio></td>
-            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel_full.wav" controls preload style="width: 200px;"></audio></td>
-            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel_full.wav" controls preload style="width: 200px;"></audio></td>
+            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel_half.wav" controls preload style="width: 200px;"></audio></td>
+            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel_10.wav" controls preload style="width: 200px;"></audio></td>
+            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel_20.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>Difference/2</th>
             <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel12_full.wav" controls preload style="width: 200px;"></audio></td>
-            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel12_full.wav" controls preload style="width: 200px;"></audio></td>
-            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel12_full.wav" controls preload style="width: 200px;"></audio></td>
-            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel12_full.wav" controls preload style="width: 200px;"></audio></td>
+            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel12_half.wav" controls preload style="width: 200px;"></audio></td>
+            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel12_10.wav" controls preload style="width: 200px;"></audio></td>
+            <td><audio src="tests_vf_vs_signal/audio_with_noise/testing_audio0_noise_rozdiel12_20.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
