@@ -36,7 +36,7 @@
 <table border="1">
     <thead>
         <tr>
-            <th>/th>
+            <th></th>
             <th>Audio with noise full/th>
             <th>Audio with noise half</th>
             <th>Audio with /20 noise</th>
