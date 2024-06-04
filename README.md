@@ -96,7 +96,7 @@
             <td><audio src="corrupted/corrupted_audio_example0mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example0mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example0mask1.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example0mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example0mask1.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -104,7 +104,7 @@
             <td><audio src="corrupted/corrupted_audio_example0mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example0mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example0mask2.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example0mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example0mask2.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -112,7 +112,7 @@
             <td><audio src="corrupted/corrupted_audio_example0mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example0mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example0mask3.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example0mask3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example0mask3.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -120,7 +120,7 @@
             <td><audio src="corrupted/corrupted_audio_example0mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example0mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example0mask4.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example0mask4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example0mask4.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -128,7 +128,7 @@
             <td><audio src="corrupted/corrupted_audio_example0mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example0mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example0mask5.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example0mask5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example0mask5.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -136,7 +136,7 @@
             <td><audio src="corrupted/corrupted_audio_example0mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example0mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example0mask6.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example0mask6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example0mask6.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -160,7 +160,7 @@
             <td><audio src="corrupted/corrupted_audio_example1mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example1mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask1.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example1mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask1.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -168,7 +168,7 @@
             <td><audio src="corrupted/corrupted_audio_example1mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example1mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask2.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example1mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask2.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -176,7 +176,7 @@
             <td><audio src="corrupted/corrupted_audio_example1mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example1mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask3.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example1mask3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask3.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -184,7 +184,7 @@
             <td><audio src="corrupted/corrupted_audio_example1mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example1mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask4.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example1mask4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask4.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -192,7 +192,7 @@
             <td><audio src="corrupted/corrupted_audio_example1mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example1mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask5.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example1mask5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask5.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -200,7 +200,7 @@
             <td><audio src="corrupted/corrupted_audio_example1mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example1mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask6.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example1mask6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask6.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -224,7 +224,7 @@
             <td><audio src="corrupted/corrupted_audio_example2mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example2mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example2mask1.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example2mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example2mask1.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -232,7 +232,7 @@
             <td><audio src="corrupted/corrupted_audio_example2mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example2mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example2mask2.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example2mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example2mask2.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -240,7 +240,7 @@
             <td><audio src="corrupted/corrupted_audio_example2mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example2mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example2mask3.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example2mask3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example2mask3.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -248,7 +248,7 @@
             <td><audio src="corrupted/corrupted_audio_example2mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example2mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example2mask4.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example2mask4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example2mask4.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -256,7 +256,7 @@
             <td><audio src="corrupted/corrupted_audio_example2mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example2mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example2mask5.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example2mask5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example2mask5.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -264,7 +264,7 @@
             <td><audio src="corrupted/corrupted_audio_example2mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example2mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example2mask6.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example2mask6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example2mask6.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -288,7 +288,7 @@
             <td><audio src="corrupted/corrupted_audio_example3mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example3mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example3mask1.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example3mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example3mask1.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -296,7 +296,7 @@
             <td><audio src="corrupted/corrupted_audio_example3mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example3mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example3mask2.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example3mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example3mask2.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -304,7 +304,7 @@
             <td><audio src="corrupted/corrupted_audio_example3mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example3mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example3mask3.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example3mask3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example3mask3.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -312,7 +312,7 @@
             <td><audio src="corrupted/corrupted_audio_example3mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example3mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example3mask4.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example3mask4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example3mask4.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -320,7 +320,7 @@
             <td><audio src="corrupted/corrupted_audio_example3mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example3mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example3mask5.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example3mask5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example3mask5.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -328,7 +328,7 @@
             <td><audio src="corrupted/corrupted_audio_example3mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example3mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example3mask6.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example3mask6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example3mask6.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -352,7 +352,7 @@
             <td><audio src="corrupted/corrupted_audio_example4mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example4mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example4mask1.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example4mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example4mask1.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -360,7 +360,7 @@
             <td><audio src="corrupted/corrupted_audio_example4mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example4mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example4mask2.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example4mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example4mask2.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -368,7 +368,7 @@
             <td><audio src="corrupted/corrupted_audio_example4mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example4mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example4mask3.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example4mask3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example4mask3.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -376,7 +376,7 @@
             <td><audio src="corrupted/corrupted_audio_example4mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example4mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example4mask4.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example4mask4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example4mask4.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -384,7 +384,7 @@
             <td><audio src="corrupted/corrupted_audio_example4mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example4mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example4mask5.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example4mask5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example4mask5.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -392,7 +392,7 @@
             <td><audio src="corrupted/corrupted_audio_example4mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example4mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example4mask6.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example4mask6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example4mask6.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -416,7 +416,7 @@
             <td><audio src="corrupted/corrupted_audio_example5mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example5mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example5mask1.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example5mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example5mask1.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -424,7 +424,7 @@
             <td><audio src="corrupted/corrupted_audio_example5mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example5mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example5mask2.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example5mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example5mask2.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -432,7 +432,7 @@
             <td><audio src="corrupted/corrupted_audio_example5mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example5mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example5mask3.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example5mask3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example5mask3.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -440,7 +440,7 @@
             <td><audio src="corrupted/corrupted_audio_example5mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example5mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example5mask4.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example5mask4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example5mask4.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -448,7 +448,7 @@
             <td><audio src="corrupted/corrupted_audio_example5mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example5mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example5mask5.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example5mask5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example5mask5.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -456,7 +456,7 @@
             <td><audio src="corrupted/corrupted_audio_example5mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example5mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example5mask6.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example5mask6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example5mask6.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -480,7 +480,7 @@
             <td><audio src="corrupted/corrupted_audio_example6mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example6mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example6mask1.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example6mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example6mask1.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -488,7 +488,7 @@
             <td><audio src="corrupted/corrupted_audio_example6mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example6mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example6mask2.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example6mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example6mask2.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -496,7 +496,7 @@
             <td><audio src="corrupted/corrupted_audio_example6mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example6mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example6mask3.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example6mask3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example6mask3.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -504,7 +504,7 @@
             <td><audio src="corrupted/corrupted_audio_example6mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example6mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example6mask4.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example6mask4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example6mask4.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -512,7 +512,7 @@
             <td><audio src="corrupted/corrupted_audio_example6mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example6mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example6mask5.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example6mask5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example6mask5.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -520,7 +520,7 @@
             <td><audio src="corrupted/corrupted_audio_example6mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example6mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example6mask6.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example6mask6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example6mask6.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -544,7 +544,7 @@
             <td><audio src="corrupted/corrupted_audio_example7mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example7mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example7mask1.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example7mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example7mask1.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -552,7 +552,7 @@
             <td><audio src="corrupted/corrupted_audio_example7mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example7mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example7mask2.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example7mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example7mask2.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -560,7 +560,7 @@
             <td><audio src="corrupted/corrupted_audio_example7mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example7mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example7mask3.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example7mask3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example7mask3.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -568,7 +568,7 @@
             <td><audio src="corrupted/corrupted_audio_example7mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example7mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example7mask4.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example7mask4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example7mask4.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -576,7 +576,7 @@
             <td><audio src="corrupted/corrupted_audio_example7mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example7mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example7mask5.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example7mask5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example7mask5.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -584,7 +584,7 @@
             <td><audio src="corrupted/corrupted_audio_example7mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_best_test/audio_example7mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example7mask6.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="dpai_odg_nevyh/nevyh_audio_example7mask6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example7mask6.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
