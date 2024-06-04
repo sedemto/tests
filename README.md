@@ -75,3 +75,5 @@
     </tbody>
 </table>
 
+# Comparison of DPAI and Janssen reconstruction with the same ODG metric (+-0.4) from PEMO-Q + Janssen reconstruction with "nevyhodna" mask
+
