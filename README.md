@@ -87,6 +87,14 @@
             <th>DPAI</th>
             <th>Janssen approx.</th>
             <th>Janssen "nevyhodna" mask</th>
+           <th>extrapolation - method1</th>
+           <th>Janssen - method2</th>
+           <th>JanssenTF DRaccel - method3</th>
+           <th>JanssenTF DR - method4</th>
+           <th>JanssenTF PG - method5</th>
+           <th>JanssenTF primal - method6</th>
+           <th>JanssenTF dual - method7</th>
+           <th>JanssenTF cp - method8</th>
         </tr>
     </thead>
     <tbody>
@@ -97,6 +105,14 @@
             <td><audio src="dpai_best_test/audio_example0mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example0mask1.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example0mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask1_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask1_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask1_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask1_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask1_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask1_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask1_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask1_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -105,6 +121,14 @@
             <td><audio src="dpai_best_test/audio_example0mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example0mask2.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example0mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask2_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask2_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask2_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask2_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask2_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask2_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask2_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask2_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -113,6 +137,14 @@
             <td><audio src="dpai_best_test/audio_example0mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example0mask3.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example0mask3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask3_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask3_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask3_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask3_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask3_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask3_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask3_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask3_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -121,6 +153,14 @@
             <td><audio src="dpai_best_test/audio_example0mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example0mask4.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example0mask4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask4_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask4_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask4_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask4_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask4_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask4_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask4_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask4_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -129,6 +169,14 @@
             <td><audio src="dpai_best_test/audio_example0mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example0mask5.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example0mask5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask5_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask5_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask5_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask5_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask5_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask5_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask5_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask5_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -137,6 +185,14 @@
             <td><audio src="dpai_best_test/audio_example0mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example0mask6.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example0mask6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask6_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask6_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask6_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask6_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask6_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask6_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask6_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example0_mask6_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -169,14 +225,14 @@
             <td><audio src="dpai_best_test/audio_example1mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask1.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask1.wav" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="janssen_res/example1_mask1_method1" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="janssen_res/example1_mask1_method2" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="janssen_res/example1_mask1_method3" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="janssen_res/example1_mask1_method4" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="janssen_res/example1_mask1_method5" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="janssen_res/example1_mask1_method6" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="janssen_res/example1_mask1_method7" controls preload style="width: 200px;"></audio></td>
-           <td><audio src="janssen_res/example1_mask1_method8" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -185,6 +241,14 @@
             <td><audio src="dpai_best_test/audio_example1mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask2.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask2_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask2_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask2_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask2_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask2_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask2_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask2_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask2_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -193,6 +257,14 @@
             <td><audio src="dpai_best_test/audio_example1mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask3.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask3.wav" controls preload style="width: 200px;"></audio></td>
+         <td><audio src="janssen_res/example1_mask3_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask3_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask3_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask3_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask3_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask3_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask3_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask3_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -201,6 +273,14 @@
             <td><audio src="dpai_best_test/audio_example1mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask4.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask4.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example1_mask4_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask4_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask4_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask4_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask4_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask4_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask4_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask4_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -209,6 +289,14 @@
             <td><audio src="dpai_best_test/audio_example1mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask5.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask5.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example1_mask5_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask5_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask5_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask5_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask5_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask5_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask5_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask5_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -217,6 +305,14 @@
             <td><audio src="dpai_best_test/audio_example1mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask6.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask6.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example1_mask6_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask6_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask6_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask6_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask6_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask6_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask6_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask6_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -231,6 +327,14 @@
             <th>DPAI</th>
             <th>Janssen approx.</th>
             <th>Janssen "nevyhodna" mask</th>
+           <th>extrapolation - method1</th>
+           <th>Janssen - method2</th>
+           <th>JanssenTF DRaccel - method3</th>
+           <th>JanssenTF DR - method4</th>
+           <th>JanssenTF PG - method5</th>
+           <th>JanssenTF primal - method6</th>
+           <th>JanssenTF dual - method7</th>
+           <th>JanssenTF cp - method8</th>
         </tr>
     </thead>
     <tbody>
@@ -241,6 +345,14 @@
             <td><audio src="dpai_best_test/audio_example2mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example2mask1.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example2mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask1_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask1_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask1_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask1_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask1_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask1_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask1_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask1_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -249,6 +361,14 @@
             <td><audio src="dpai_best_test/audio_example2mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example2mask2.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example2mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask2_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask2_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask2_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask2_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask2_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask2_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask2_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask2_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -257,6 +377,14 @@
             <td><audio src="dpai_best_test/audio_example2mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example2mask3.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example2mask3.wav" controls preload style="width: 200px;"></audio></td>
+         <td><audio src="janssen_res/example2_mask3_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask3_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask3_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask3_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask3_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask3_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask3_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask3_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -265,6 +393,14 @@
             <td><audio src="dpai_best_test/audio_example2mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example2mask4.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example2mask4.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example2_mask4_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask4_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask4_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask4_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask4_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask4_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask4_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask4_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -273,6 +409,14 @@
             <td><audio src="dpai_best_test/audio_example2mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example2mask5.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example2mask5.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example2_mask5_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask5_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask5_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask5_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask5_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask5_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask5_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask5_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -281,6 +425,14 @@
             <td><audio src="dpai_best_test/audio_example2mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example2mask6.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example2mask6.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example2_mask6_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask6_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask6_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask6_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask6_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask6_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask6_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example2_mask6_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -295,6 +447,14 @@
             <th>DPAI</th>
             <th>Janssen approx.</th>
             <th>Janssen "nevyhodna" mask</th>
+           <th>extrapolation - method1</th>
+           <th>Janssen - method2</th>
+           <th>JanssenTF DRaccel - method3</th>
+           <th>JanssenTF DR - method4</th>
+           <th>JanssenTF PG - method5</th>
+           <th>JanssenTF primal - method6</th>
+           <th>JanssenTF dual - method7</th>
+           <th>JanssenTF cp - method8</th>
         </tr>
     </thead>
     <tbody>
@@ -305,6 +465,14 @@
             <td><audio src="dpai_best_test/audio_example3mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example3mask1.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example3mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask1_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask1_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask1_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask1_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask1_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask1_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask1_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask1_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -313,6 +481,14 @@
             <td><audio src="dpai_best_test/audio_example3mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example3mask2.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example3mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask2_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask2_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask2_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask2_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask2_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask2_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask2_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask2_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -321,6 +497,14 @@
             <td><audio src="dpai_best_test/audio_example3mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example3mask3.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example3mask3.wav" controls preload style="width: 200px;"></audio></td>
+         <td><audio src="janssen_res/example3_mask1_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask3_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask3_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask3_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask3_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask3_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask3_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask3_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -329,6 +513,14 @@
             <td><audio src="dpai_best_test/audio_example3mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example3mask4.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example3mask4.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example3_mask4_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask4_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask4_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask4_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask4_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask4_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask4_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask4_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -337,6 +529,14 @@
             <td><audio src="dpai_best_test/audio_example3mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example3mask5.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example3mask5.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example3_mask5_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask5_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask5_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask5_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask5_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask5_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask5_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask5_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -345,6 +545,14 @@
             <td><audio src="dpai_best_test/audio_example3mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example3mask6.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example3mask6.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example3_mask6_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask6_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask6_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask6_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask6_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask6_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask6_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example3_mask6_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -359,6 +567,14 @@
             <th>DPAI</th>
             <th>Janssen approx.</th>
             <th>Janssen "nevyhodna" mask</th>
+           <th>extrapolation - method1</th>
+           <th>Janssen - method2</th>
+           <th>JanssenTF DRaccel - method3</th>
+           <th>JanssenTF DR - method4</th>
+           <th>JanssenTF PG - method5</th>
+           <th>JanssenTF primal - method6</th>
+           <th>JanssenTF dual - method7</th>
+           <th>JanssenTF cp - method8</th>
         </tr>
     </thead>
     <tbody>
@@ -369,6 +585,14 @@
             <td><audio src="dpai_best_test/audio_example4mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example4mask1.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example4mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask1_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask1_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask1_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask1_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask1_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask1_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask1_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask1_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -377,6 +601,14 @@
             <td><audio src="dpai_best_test/audio_example4mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example4mask2.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example4mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask2_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask2_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask2_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask2_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask2_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask2_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask2_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask2_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -385,6 +617,14 @@
             <td><audio src="dpai_best_test/audio_example4mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example4mask3.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example4mask3.wav" controls preload style="width: 200px;"></audio></td>
+         <td><audio src="janssen_res/example4_mask3_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask3_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask3_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask3_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask3_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask3_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask3_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask3_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -393,6 +633,14 @@
             <td><audio src="dpai_best_test/audio_example4mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example4mask4.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example4mask4.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example4_mask4_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask4_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask4_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask4_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask4_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask4_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask4_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask4_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -401,6 +649,14 @@
             <td><audio src="dpai_best_test/audio_example4mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example4mask5.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example4mask5.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example4_mask5_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask5_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask5_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask5_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask5_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask5_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask5_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask5_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -409,6 +665,14 @@
             <td><audio src="dpai_best_test/audio_example4mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example4mask6.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example4mask6.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example4_mask6_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask6_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask6_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask6_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask6_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask6_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask6_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example4_mask6_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -423,6 +687,14 @@
             <th>DPAI</th>
             <th>Janssen approx.</th>
             <th>Janssen "nevyhodna" mask</th>
+           <th>extrapolation - method1</th>
+           <th>Janssen - method2</th>
+           <th>JanssenTF DRaccel - method3</th>
+           <th>JanssenTF DR - method4</th>
+           <th>JanssenTF PG - method5</th>
+           <th>JanssenTF primal - method6</th>
+           <th>JanssenTF dual - method7</th>
+           <th>JanssenTF cp - method8</th>
         </tr>
     </thead>
     <tbody>
@@ -433,6 +705,14 @@
             <td><audio src="dpai_best_test/audio_example5mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example5mask1.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example5mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask1_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask1_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask1_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask1_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask1_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask1_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask1_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask1_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -441,6 +721,14 @@
             <td><audio src="dpai_best_test/audio_example5mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example5mask2.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example5mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask2_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask2_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask2_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask2_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask2_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask2_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask2_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask2_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -449,6 +737,14 @@
             <td><audio src="dpai_best_test/audio_example5mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example5mask3.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example5mask3.wav" controls preload style="width: 200px;"></audio></td>
+         <td><audio src="janssen_res/example5_mask3_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask3_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask3_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask3_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask3_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask3_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask3_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask3_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -457,6 +753,14 @@
             <td><audio src="dpai_best_test/audio_example5mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example5mask4.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example5mask4.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example5_mask4_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask4_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask4_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask4_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask4_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask4_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask4_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask4_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -465,6 +769,14 @@
             <td><audio src="dpai_best_test/audio_example5mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example5mask5.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example5mask5.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example5_mask5_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask5_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask5_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask5_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask5_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask5_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask5_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask5_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -473,6 +785,14 @@
             <td><audio src="dpai_best_test/audio_example5mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example5mask6.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example5mask6.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example5_mask6_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask6_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask6_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask6_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask6_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask6_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask6_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example5_mask6_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -487,6 +807,14 @@
             <th>DPAI</th>
             <th>Janssen approx.</th>
             <th>Janssen "nevyhodna" mask</th>
+           <th>extrapolation - method1</th>
+           <th>Janssen - method2</th>
+           <th>JanssenTF DRaccel - method3</th>
+           <th>JanssenTF DR - method4</th>
+           <th>JanssenTF PG - method5</th>
+           <th>JanssenTF primal - method6</th>
+           <th>JanssenTF dual - method7</th>
+           <th>JanssenTF cp - method8</th>
         </tr>
     </thead>
     <tbody>
@@ -497,6 +825,14 @@
             <td><audio src="dpai_best_test/audio_example6mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example6mask1.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example6mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask1_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask1_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask1_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask1_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask1_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask1_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask1_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask1_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -505,6 +841,14 @@
             <td><audio src="dpai_best_test/audio_example6mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example6mask2.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example6mask2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask2_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask2_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask2_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask2_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask2_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask2_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask2_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask2_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -513,6 +857,14 @@
             <td><audio src="dpai_best_test/audio_example6mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example6mask3.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example6mask3.wav" controls preload style="width: 200px;"></audio></td>
+         <td><audio src="janssen_res/example6_mask3_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask3_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask3_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask3_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask3_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask3_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask3_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask3_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -521,6 +873,14 @@
             <td><audio src="dpai_best_test/audio_example6mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example6mask4.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example6mask4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask4_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask4_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask4_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask4_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask4_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask4_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask4_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask4_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -529,6 +889,14 @@
             <td><audio src="dpai_best_test/audio_example6mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example6mask5.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example6mask5.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example6_mask5_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask5_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask5_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask5_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask5_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask5_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask5_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask5_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -537,6 +905,14 @@
             <td><audio src="dpai_best_test/audio_example6mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example6mask6.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example6mask6.wav" controls preload style="width: 200px;"></audio></td>
+          <td><audio src="janssen_res/example6_mask6_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask6_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask6_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask6_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask6_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask6_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask6_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example6_mask6_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
@@ -551,6 +927,14 @@
             <th>DPAI</th>
             <th>Janssen approx.</th>
             <th>Janssen "nevyhodna" mask</th>
+           <th>extrapolation - method1</th>
+           <th>Janssen - method2</th>
+           <th>JanssenTF DRaccel - method3</th>
+           <th>JanssenTF DR - method4</th>
+           <th>JanssenTF PG - method5</th>
+           <th>JanssenTF primal - method6</th>
+           <th>JanssenTF dual - method7</th>
+           <th>JanssenTF cp - method8</th>
         </tr>
     </thead>
     <tbody>
@@ -561,6 +945,14 @@
             <td><audio src="dpai_best_test/audio_example7mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example7mask1.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example7mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask1_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask1_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask1_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask1_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask1_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask1_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask1_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask1_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
@@ -569,6 +961,14 @@
             <td><audio src="dpai_best_test/audio_example7mask2.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example7mask2.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example7mask2.wav" controls preload style="width: 200px;"></audio></td>
+         <td><audio src="janssen_res/example7_mask2_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask2_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask2_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask2_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask2_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask2_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask2_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask2_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
       <tr>
             <th>mask3</th>
@@ -577,6 +977,14 @@
             <td><audio src="dpai_best_test/audio_example7mask3.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example7mask3.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example7mask3.wav" controls preload style="width: 200px;"></audio></td>
+         <td><audio src="janssen_res/example7_mask3_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask3_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask3_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask3_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask3_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask3_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask3_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask3_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask4</th>
@@ -585,6 +993,14 @@
             <td><audio src="dpai_best_test/audio_example7mask4.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example7mask4.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example7mask4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask4_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask4_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask4_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask4_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask4_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask4_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask4_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask4_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask5</th>
@@ -593,6 +1009,14 @@
             <td><audio src="dpai_best_test/audio_example7mask5.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example7mask5.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example7mask5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask5_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask5_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask5_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask5_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask5_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask5_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask5_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask5_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
        <tr>
             <th>mask6</th>
@@ -601,6 +1025,14 @@
             <td><audio src="dpai_best_test/audio_example7mask6.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example7mask6.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example7mask6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask6_method1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask6_method2.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask6_method3.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask6_method4.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask6_method5.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask6_method6.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask6_method7.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example7_mask6_method8.wav" controls preload style="width: 200px;"></audio></td>
         </tr>
     </tbody>
 </table>
