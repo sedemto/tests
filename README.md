@@ -151,6 +151,14 @@
             <th>DPAI</th>
             <th>Janssen approx.</th>
             <th>Janssen "nevyhodna" mask</th>
+           <th>extrapolation - method1</th>
+           <th>Janssen - method2</th>
+           <th>JanssenTF DRaccel - method3</th>
+           <th>JanssenTF DR - method4</th>
+           <th>JanssenTF PG - method5</th>
+           <th>JanssenTF primal - method6</th>
+           <th>JanssenTF dual - method7</th>
+           <th>JanssenTF cp - method8</th>
         </tr>
     </thead>
     <tbody>
@@ -161,6 +169,14 @@
             <td><audio src="dpai_best_test/audio_example1mask1.wav" controls preload style="width: 200px;"></audio></td>
             <td><audio src="dpai_odg_found/audio_example1mask1.wav" controls preload style="width: 200px;"></audio></td>
            <td><audio src="dpai_odg_nevyh/nevyhodna_audio_example1mask1.wav" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method1" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method2" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method3" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method4" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method5" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method6" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method7" controls preload style="width: 200px;"></audio></td>
+           <td><audio src="janssen_res/example1_mask1_method8" controls preload style="width: 200px;"></audio></td>
         </tr>
         <tr>
             <th>mask2</th>
