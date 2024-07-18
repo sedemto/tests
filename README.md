@@ -74,9 +74,8 @@
         </tr>
     </tbody>
 </table>
-
+<!--
 ## Comparison of DPAI and Janssen reconstruction with the same ODG metric (+-0.4) from PEMO-Q + Janssen reconstruction with "nevyhodna" mask
-
 <h2>Example0</h2>
 <table border="1">
     <thead>
@@ -196,7 +195,6 @@
         </tr>
     </tbody>
 </table>
-
 <h2>Example1</h2>
 <table border="1">
     <thead>
@@ -316,7 +314,6 @@
         </tr>
     </tbody>
 </table>
-
 <h2>Example2</h2>
 <table border="1">
     <thead>
@@ -436,7 +433,6 @@
         </tr>
     </tbody>
 </table>
-
 <h2>Example3</h2>
 <table border="1">
     <thead>
@@ -556,7 +552,6 @@
         </tr>
     </tbody>
 </table>
-
 <h2>Example4</h2>
 <table border="1">
     <thead>
@@ -676,7 +671,6 @@
         </tr>
     </tbody>
 </table>
-
 <h2>Example5</h2>
 <table border="1">
     <thead>
@@ -796,7 +790,6 @@
         </tr>
     </tbody>
 </table>
-
 <h2>Example6</h2>
 <table border="1">
     <thead>
@@ -916,7 +909,6 @@
         </tr>
     </tbody>
 </table>
-
 <h2>Example7</h2>
 <table border="1">
     <thead>
@@ -1036,7 +1028,7 @@
         </tr>
     </tbody>
 </table>
-
+-->
 ## Comparison of DPAI, gapwise Janssen and Janssen in TF representation 
 
 <h2>Example0</h2> 
