@@ -1,3 +1,4 @@
+<!--
 ## Audio examples
 
 <div class="container">
@@ -29,7 +30,7 @@
      <audio src="tests_vf_vs_signal/audio_without_noise/testing_audio0_rozdiel_vyh_nevyh_div2.wav" controls preload style="width: 200px;"></audio>
    </div>
 </div>
-
+-->
 
 <h1>Audio Table</h1>
 
